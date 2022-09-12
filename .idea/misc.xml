@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx-version2/submission2fx2/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx-version2/submission2fx2/app/src/main/res/layout/fragment_movs.xml" value="0.20102564102564102" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx-version2/submission2fx2/core/src/main/res/layout/item_card_list_placeholder.xml" value="0.20102564102564102" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx-version2/submission2fx2/favsz/src/main/res/layout/fragmen_tes.xml" value="0.17962962962962964" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx-version2/submission2fx2/favsz/src/main/res/layout/fragment_favs.xml" value="0.17962962962962964" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/bubble_navigation_bg.xml" value="0.1615" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/card_detail_foreground.xml" value="0.1615" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/card_foreground.xml" value="0.1615" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/favorite_selector.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_baseline_movie_creation_24.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_date.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_default.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_favorite_border.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_movies.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_sort.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_star.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_tv_shows.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ic_vote.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/ripple_deadline_button.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/shadow.xml" value="0.1615" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/drawable/shape_color.xml" value="0.2095" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/activity_homr.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/activity_splash_screen.xml" value="0.67" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/favorite_fragemnt.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/fragment_movs.xml" value="0.12" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/item_card_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/item_test.xml" value="0.33" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/app/src/main/res/menu/search_menu.xml" value="0.203125" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/core/src/main/res/drawable/background_user_score.xml" value="0.1575" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/core/src/main/res/drawable/bubble_navigation_bg.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/core/src/main/res/drawable/card_foreground.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/core/src/main/res/drawable/poster_placeholder.xml" value="0.1575" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/core/src/main/res/drawable/shape_color.xml" value="0.12" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/core/src/main/res/layout/item_card_list.xml" value="0.18" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/core/src/main/res/layout/item_list_card.xml" value="0.22" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/favs/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/favs/src/main/res/layout/fragment_favs.xml" value="0.153125" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/favs/src/main/res/layout/fragment_favs_ghibl.xml" value="0.1675213675213675" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/favsz/src/main/res/layout/fragmen_tes.xml" value="0.2" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/favsz/src/main/res/layout/fragment_favs.xml" value="0.1" />
+        <entry key="..\:/Dicoding AndroidDev Expert Projeckt/submission2fx/favsz/src/main/res/layout/fragment_favs_ghibl.xml" value="0.225" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

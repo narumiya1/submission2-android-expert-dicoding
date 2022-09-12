@@ -1,0 +1,6 @@
+
+include ':app'
+rootProject.name = "submission2fx"
+include ':core'
+include ':favs'
+include ':favsz'
