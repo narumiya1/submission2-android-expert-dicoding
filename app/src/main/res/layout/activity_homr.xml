@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/secondaryColor"
+    style="@style/Theme.Submission2fx"
     tools:context=".home.HomrActivity">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -77,7 +77,7 @@
             app:bt_icon="@drawable/ic_baseline_movie_creation_24"
             app:bt_shape="@drawable/bubble_navigation_bg"
             app:bt_title="Movies"
-            android:layout_marginLeft="50dp"
+            android:layout_marginStart="50dp"
             app:layout_constraintEnd_toStartOf="@+id/btTvShows"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"

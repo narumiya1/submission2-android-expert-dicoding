@@ -33,33 +33,23 @@
             android:layout_height="56dp"
             android:layout_gravity="center" />
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="bottom"
-            android:layout_marginTop="13dp"
-            android:gravity="end"
-            android:orientation="horizontal">
 
-            <FrameLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
+
 
                 <TextView
                     android:id="@+id/popularity"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_marginEnd="11dp"
-                    android:layout_marginBottom="76dp"
                     android:background="@drawable/background_user_score"
                     android:gravity="center"
-                    android:text="Score"
+                    android:layout_gravity="end"
+                    android:text="@string/dummyUserScore"
+                    android:layout_marginTop="14dp"
                     android:textColor="@color/white"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent" />
-            </FrameLayout>
 
-        </LinearLayout>
 
 
         <LinearLayout
@@ -75,10 +65,10 @@
                 android:id="@+id/title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="18dp"
-                android:layout_marginRight="34dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="34dp"
                 android:lineSpacingExtra="4sp"
-                android:text="Castle In The Sky"
+                android:text="@string/dummyTitle"
                 android:textAlignment="textEnd"
                 android:textColor="@color/white"
                 android:textSize="19sp"
@@ -97,11 +87,11 @@
                     android:id="@+id/sub_title"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="18dp"
-                    android:layout_marginRight="34dp"
+                    android:layout_marginStart="18dp"
+                    android:layout_marginEnd="34dp"
                     android:layout_marginBottom="2dp"
                     android:lineSpacingExtra="7sp"
-                    android:text="( Tenkū no shiro Rapyuta )"
+                    android:text="@string/sub_title"
                     android:textColor="@color/white"
                     android:textSize="14sp"
                     android:textStyle="italic" />
@@ -110,11 +100,11 @@
                     android:id="@+id/date"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="18dp"
-                    android:layout_marginRight="34dp"
+                    android:layout_marginStart="18dp"
+                    android:layout_marginEnd="34dp"
                     android:gravity="end"
                     android:lineSpacingExtra="9sp"
-                    android:text="1984"
+                    android:text="@string/dummyDate"
                     android:textColor="@color/white"
                     android:textSize="14sp"
                     android:visibility="invisible" />
